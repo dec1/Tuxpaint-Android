@@ -8,7 +8,7 @@ android {
         applicationId "org.tuxpaint"
         minSdkVersion 14
         targetSdkVersion 26
-	externalNativeBuild {
+	    externalNativeBuild {
         		        ndkBuild {
 
                     // see here for options
